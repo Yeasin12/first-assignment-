@@ -90,6 +90,9 @@ body{
       .para{
           padding: 15px;
       }
+      .paragraph{
+          padding-left: 10px;
+      }
       #mission{
           background-color: #FFFFFF;
       }
